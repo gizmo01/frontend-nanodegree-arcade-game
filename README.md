@@ -15,4 +15,3 @@
 * File `resources.js` loads images needed for the canvas
 * File `engine.js` handles the game loop
 
-**Have fun!**
