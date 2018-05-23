@@ -22,8 +22,8 @@ Final thoughts: at the beginning the project seemed very complicated, way more d
 Thanks davide2894, for the diary inspiration, yours was very helpful! ;)
 
 ### TODO:
-Add Scoreboard, player lives, playerselect screen
-Add collectible items on screen
-Multiple vehicle types
-Timed games
-Be creative!
+* Add Scoreboard, player lives, playerselect screen
+* Add collectible items on screen
+* Multiple vehicle types
+* Timed games
+* Be creative!
