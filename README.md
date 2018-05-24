@@ -1,7 +1,17 @@
-frontend-nanodegree-arcade-game
+
+# [Frontend Nanodegree Arcade Game Project](https://gizmo01.github.io/frontend-nanodegree-arcade-game/)
+4th Project for the Udacity FEND Nanodegree
+
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Get started
+* [Play Game](https://gizmo01.github.io/frontend-nanodegree-arcade-game/)
+* Use arrow to move
+* Goal: reach the water! But be careful: don't get hit by the bugs!
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
-# frontend-nanodegree-arcade-game
+
+* Read [arcade-game-diary.md](https://github.com/gizmo01/frontend-nanodegree-arcade-game/blob/master/arcade-game-diary.md)
+* Use `app.js` to edit Enemy and Player classes
+* File `resources.js` loads images needed for the canvas
+* File `engine.js` handles the game loop
+
