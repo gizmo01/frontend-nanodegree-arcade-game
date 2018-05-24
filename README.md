@@ -5,7 +5,7 @@
 ===============================
 
 ## Get started
-* Play the Game online by clicking [here](https://gizmo01.github.io/frontend-nanodegree-arcade-game/) or locally by downloading/cloning this repository and then opening the index.html file
+* Play the Game online by clicking [here](https://gizmo01.github.io/frontend-nanodegree-arcade-game/) or locally by downloading/cloning [this repository](https://github.com/gizmo01/frontend-nanodegree-arcade-game.git) and then opening the index.html file
 * Use arrow to move
 * Goal: reach the water! But be careful: don't get hit by the bugs!
 
